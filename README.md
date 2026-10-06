@@ -1,2 +1,1 @@
-# python-Learning
-learning python 
+40 coding problems in Python, organized by pattern, with pytest tests
